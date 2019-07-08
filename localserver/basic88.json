@@ -1,0 +1,57 @@
+{
+    "basic88Header":[
+      {
+          "id":1,
+          "name":"Home",
+          "desc":"Home is worked"
+      },
+      {
+        "id":2,
+        "name":"About",
+        "desc":"About is worked"
+      },
+      {
+        "id":3,
+        "name":"Blog",
+        "desc":"Blog is worked"
+      },
+      {
+          "id":4,
+          "name":"Carrier",
+          "desc":"Carrier is worked"
+      },
+      {
+          "id":"5",
+          "name":"Contact",
+          "desc":"Contact is worked"
+      }
+    ],
+    "main-imgList":[
+        {
+            "id":1,
+            "name":"image1",
+            "image":"assets/images/demo/image-2.jpg"
+        },
+        {
+            "id":2,
+            "name":"image2",
+            "image":"assets/images/demo/image-3.jpg"
+        },
+        {
+            "id":3,
+            "name":"image3",
+            "image":"assets/images/demo/image-4.jpg"
+        },
+        {
+            "id":4,
+            "name":"image4",
+            "image":"assets/images/demo/image-5.jpg"
+        },
+        {
+            "id":5,
+            "name":"image5",
+            "image":"assets/images/demo/image-6.jpg"
+        }
+
+    ]
+}
